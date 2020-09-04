@@ -8,9 +8,9 @@ docker run --rm -it amoslgl96/tictactoe:alpine
 
 ### Alternatively build from source:
 1. Install golang. Used go1.14 to write this code
-2. Get the tictactoe source from github 
+2. Get source code
 ```
-go get github.com/dev-amos/tictactoe
+git clone https://github.com/dev-amos/tictactoe.git
 ```
 3. cd cmd/tictactoe
 ```
